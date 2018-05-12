@@ -1,0 +1,26 @@
+_repo: The-Cat-in-Grandfather-s-House_23737
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grabo, Carl Henry
+    birthdate: 1881
+    gutenberg_agent_id: '26004'
+    url: http://www.gutenberg.org/2009/agents/26004
+description: ''
+gutenberg_issued: '2007-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23737'
+  lccn: '29020590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+title: The Cat in Grandfather's House
+url: http://www.gutenberg.org/ebooks/23737
